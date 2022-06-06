@@ -1,0 +1,19 @@
+print('Welcome to Python!')
+
+print("Welcome to Python!")
+
+print('Welcome', 'to', 'Python!')
+
+print('Welcome\nto\n \nPython!')
+
+print('Display \'hi\' in quotes')
+
+print('Display \'hi\' in quotes')
+
+print('Display \'hi\' in quotes')
+
+print("""Display "hi" in  many quotes""")
+
+print("Display the name O'Brien")
+
+print('Welc')
